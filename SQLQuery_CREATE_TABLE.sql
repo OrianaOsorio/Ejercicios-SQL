@@ -1,5 +1,3 @@
-/*--------31/08/2016----------------*/
-
 /*
 Realizar un script que cree una tabla con los siguientes atributos
 cod_Empleado primary key autoincremental entero,
